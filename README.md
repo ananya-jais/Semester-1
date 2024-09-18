@@ -38,10 +38,6 @@ a.**Debian**-It contain OPERATING SYSTEM like UBUNTU[open source,developed by CA
 
 b.**RHEL[red hat enterprise linux]**-It contain OPERATING SYSTEM likre centOS,oracle,fedora,red hat.
 
-Packing manager: Yum 
-
-It is owned by IBM[international business machine] at 40 billon dollor.
-
 10.**NETWORK**
 There are two types of network-
 1.Internet[(WAN-wide area network) and it is a public network]
@@ -82,26 +78,22 @@ bare metal-->install operating system-->VM1,VM2,VM3-->type 2[VM1,VM2,VM3..,Virtu
 
 21.**GDPR**--general data protection regulation
 
-22.**FAANG,MAANG,MERN**-
- a group of big tech stocks that are tradtionally made up of Facebook (Meta Platforms), Amazon, Apple, Netflix, and Google.
- 
- The acronym MAANG stands for Meta, Amazon, Apple, Netflix, and Google.
+22.**Protocols**-set of rules that help in working and transmission of data on a computer network.
 
- MERN stands for MongoDB, Express, React, Node
+23.**UDP(user datagram protocol)**- it is one of the protocols used to send msgs to other hosts.
 
-23.**FPGA(field programmable gate array)**-A field-programmable gate array is a type of integrated circuit that can be programmed or reprogrammed after manufacturing. It consists of an array of programmable logic block and interconnects that can be configured to perform various digital functions.This feature sets FPGAs apart from Application Specific Integrated Circuits (ASICs). The latter is explicitly made for a given goal, which one cannot change later. 
+24.**FPGA(field programmable gate array)**-A field-programmable gate array is a type of integrated circuit that can be programmed or reprogrammed after manufacturing. It consists of an array of programmable logic block and interconnects that can be configured to perform various digital functions.
 
-24.**ASIC'S(Application-specific integrated circuit)**- It is an integrated circuit (IC) chip customized for a particular use, rather than intended for general-purpose use, such as a chip designed to run in a digital voice recorder or a high-efficiency video codec.
+25.**ASIC'S(Application-specific integrated circuit)**- It is an integrated circuit (IC) chip customized for a particular use, rather than intended for general-purpose use, such as a chip designed to run in a digital voice recorder or a high-efficiency video codec.
 
-25.**Photonic**-Photonics also includes research on photonic systems. 
+26.**Photonic**-Photonics also includes research on photonic systems. 
 
-26.Company only make silicon chip(SoCs)
-
-a.*taiwan*     b.*intel*     c.*samsung*
+Company only make silicon chip(SoCs)
+**Taiwan**--**TSMC**
 
 27.**Cryptography**-The prefix “crypt” means “hidden” and suffix “graphy” means “writing”.it is technique of securing information and communications through use of codes so that only those person for whom the information is intended can understand it and process it.
 
-28.**Crypto currency**-
+28.**Crypto currency**- Any type of currency that exists online/digital currency designed to work as a medium of exchange on computer network.
 
 29.**https**-s means secure socket layer(SSL) 
 
@@ -127,7 +119,7 @@ SSH[secure shell]-22
 
 33.**TCP/IP(TRANSMISION CONTROL PROTOCOL)**-layer5+layer6+layer7
 
-34.**eth0(Ethernet adapter)**-(physical NIC) use to in and out the data packages
+34.**Ethernet adapter**-(physical NIC) use to in and out the data packages
 
 35.**COMPUTER ARCHITECTURE**- 
 
