@@ -131,17 +131,18 @@ SSH[secure shell]-22
 
 39. **Kivy**-
 
-40. **LOKI**-
+40. **LOKI**-LOKI, or Linux, OpenStack, Kubernetes, and Infrastructure, is an open-source infrastructure stack that combines Linux, OpenStack, Kubernetes, and other technologies to run cloud infrastructure. It's the OpenInfra Standard for running modern cloud infrastructure.
+LOKI bridges the gap between traditional and cloud-native workloads. It's a testament to the collaborative power of Linux, OpenStack, and Kubernetes.
 
-41. **K8S**-
+42. **K8S**-open source container orchestration platform design to automate the deployment scaling and management of containerized applications
 
-42. **Algorithm**-
+43. **Algorithm**-
 
-43. **FIREWALL**-NETWORk security device 
+44. **FIREWALL**-NETWORk security device 
 
-44. **Flutter**-Open sorce framework developed and supported by google
+45. **Flutter**-Open sorce framework developed and supported by google
 
-45. **Hypervisor**-
+46. **Hypervisor**-
 
 47. **RAFT**-Consensus algorithm designed as an alternative to paxos family of algo
 
