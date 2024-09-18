@@ -121,7 +121,7 @@ SSH[secure shell]-22
 
 34.**Ethernet adapter**-(physical NIC) use to in and out the data packages
 
-35.**COMPUTER ARCHITECTURE**- 
+35.**COMPUTER ARCHITECTURE**- Arrangement of components that comprise a CS.
 
 36.**FAB**-
 
@@ -137,18 +137,16 @@ SSH[secure shell]-22
 
 42. **Algorithm**-
 
-43. **FIREWALL**-
+43. **FIREWALL**-NETWORk security device 
 
-44. **Flutter**-
+44. **Flutter**-Open sorce framework developed and supported by google
 
 45. **Hypervisor**-
 
-46. **OS**-
-
-47. **RAFT**-
+47. **RAFT**-Consensus algorithm designed as an alternative to paxos family of algo
 
 49. **Packet**-
 
 50. **Virtual Currency**-
 
-51. **Linker**-
+51. **Linker**-Links 2 and more object files and combines them to form a single excutive file.
