@@ -23,8 +23,6 @@ TPU-tensor processing unit
 
 7.**KERNEL**--that manages operations between computer and hardware.
 
-![kernel and user space Diagram](https://www.lakesidesoftware.com/wp-content/uploads/2021/03/kernel-mode-vs-user-mode-differences.png)
-
 ### kernel programing language-
 C,C++,rust
 
@@ -36,9 +34,9 @@ b.MacOS
 
 LINUX has two types of family-
 
-a.Debian-It contain OPERATING SYSTEM like UBUNTU[open source,developed by CANONICAL],KALI LINUX.
+a.**Debian**-It contain OPERATING SYSTEM like UBUNTU[open source,developed by CANONICAL],KALI LINUX.
 
-b.RHEL[red hat enterprise linux]-It contain OPERATING SYSTEM likre centOS,oracle,fedora,red hat.
+b.**RHEL[red hat enterprise linux]**-It contain OPERATING SYSTEM likre centOS,oracle,fedora,red hat.
 
 Packing manager: Yum 
 
@@ -62,7 +60,6 @@ c.GCP[Google Cloud Platform]-by goggle
 like JIO-ipv6, airtel-ipv4.
 
 13.**DNS[domain name server]**- turns domain names into IP Address. ex:google.com
-![image](https://media.geeksforgeeks.org/wp-content/uploads/20200822065029/UntitledDiagram.png)
 
 14.**Routing**-the process of path selection in any network.
 
@@ -104,6 +101,8 @@ a.*taiwan*     b.*intel*     c.*samsung*
 
 27.**Cryptography**-The prefix “crypt” means “hidden” and suffix “graphy” means “writing”.it is technique of securing information and communications through use of codes so that only those person for whom the information is intended can understand it and process it.
 
+28.**Crypto currency**-
+
 29.**https**-s means secure socket layer(SSL) 
 
 30.**SSL[secure socket layer]**-ip address[layer3]+ port number[layer4]
@@ -130,3 +129,32 @@ SSH[secure shell]-22
 
 34.**eth0(Ethernet adapter)**-(physical NIC) use to in and out the data packages
 
+35.**COMPUTER ARCHITECTURE**- 
+
+36.**FAB**-
+
+37. **DevOps**-
+
+38. **TOR**-
+
+39. **Kivy**-
+
+40. **LOKI**-
+
+41. **K8S**-
+
+42. **Algorithm**-
+
+43. **FIREWALL**-
+
+44. **Flutter**-
+
+45. **Hypervisor**-
+
+46. **OS**-
+
+47. **RAFT**-
+
+49. **Packet**-
+
+50. **Virtual Currency**-
