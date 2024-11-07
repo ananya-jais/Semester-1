@@ -37,12 +37,13 @@ for i in range(2,n):
         else:
             print(n, "is a prime number")
 else:
-    print(n, "is not a prime number
+    print(n, "is not a prime number)
 
 # Program to generate all prime nos till asked
 n=int(input("enter a no."))
 for i in (1,n+1):
-    if 
+    if n>0:
+       print('hello')
 
 
 
