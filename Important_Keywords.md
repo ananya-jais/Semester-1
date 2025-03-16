@@ -151,6 +151,4 @@ LOKI bridges the gap between traditional and cloud-native workloads. It's a tes
 50. **Virtual Currency**-
 
 51. **Linker**-Links 2 and more object files and combines them to form a single excutive file.
-# Hello just wanna check 
-# does this work here ?
-well lets see status
+
